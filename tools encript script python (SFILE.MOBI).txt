@@ -12,7 +12,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/Rusmana-ID/encript-python-marshall
+$ git clone https://github.com/Bacotloe10/encript-python-marshall
 
 $ cd encript-python-marshall
 
